@@ -1,10 +1,8 @@
 # OpenFOAM_memo
 OpenFOAM勉強するので備忘録つけるよ
 
-Number rule
-0 this file
-1 install, compile
-2 mesh
-3 run
-4 post-process
-5 python
+Material
+1. OpenFOAM Programmer's Guide
+    http://foam.sourceforge.net/docs/Guides-a4/ProgrammersGuide.pdf
+2. Nilsson's introduction to programming in OpenFOAM.
+    https://pingpong.chalmers.se/public/courseId/9769/lang-en/publicPage.do?item=4764157
